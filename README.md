@@ -1,5 +1,7 @@
 # babel-plugin-transform-scss
 
+Forked from https://github.com/altgifted/babel-plugin-transform-scss and dirt-sass support added.
+
 Babel plugin for converting scss or sass imports to css and embedding them in the head of the document
 
 This plugin completely replaces the standard webpack sass-loader. This part of code can be removed:
